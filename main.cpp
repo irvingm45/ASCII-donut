@@ -99,3 +99,4 @@ int main(){
         render_frame(A, B, ancho, altura);
     }
 }
+
